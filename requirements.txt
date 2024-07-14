@@ -1,0 +1,7 @@
+# Python dependencies
+robotframework >= 4.1.3
+robotframework-seleniumlibrary >= 6.2.0
+
+
+# Browser drivers
+chromedriver-autoinstaller>=0.2.2
